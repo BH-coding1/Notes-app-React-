@@ -14,8 +14,8 @@ It allows users to create, edit, and delete notes, with all data stored locally 
 
 
 ## 📷 Screenshots
-![Screenshot 1](src/assets/Screenshot1.png)
-![Screenshot 2](src/assets/Screenshot2.png)
+![Screenshot 1](images/Screenshot1.png)
+![Screenshot 2](images/Screenshot2.png)
 
 ## 🚀 Installation & Setup
 1. Clone the repository:
